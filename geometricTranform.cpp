@@ -35,7 +35,7 @@ int main(int argc, char** argv)
 	//    |            |
 	//    |            |
 	// (x0,y1)------(x1,y1)
-	Point2f Upper_Left_point(x0, y0);
+	Point2f Upper_Left_point(x0, y0); 
 	Point2f Lower_Left_point(x0, y1);
 	Point2f Lower_Right_point(x1, y1);
 	Point2f Upper_Right_point(x1, y0);
